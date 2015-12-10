@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleListView</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="weekdays">
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>
